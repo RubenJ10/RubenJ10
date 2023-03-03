@@ -2,14 +2,14 @@
 
 ## Soy Ruben Jacznik
 
+| Ruben |**Datos personales** |
+| --- | ----------- |
+| Direccion |  Calle 77 |
+| CP | 1900, La Plata 
+| Pais | Argentina |
+| Tel | 221-579-2005 |
+| Gmail | rubenjacznik@gmail.com | 
 
-**Datos personales**
-- Calle 77
-- 1900, La Plata
-- Argentina
-- 221-579-2005
-- rubenjacznik@gmail.com 
- 
  
 ### Perfil profesional 
 
@@ -26,6 +26,10 @@ asistencia de calidad*.
         3 Administrativo, Juarez Juan Marcelo, Buenos Aires
          (Abril 2021 - actualidad)
 
-
-    
-    
+| Ruben |**Datos personales** |
+| --- | ----------- |
+| Direccion |  Calle 77 |
+| CP | 1900, La Plata 
+| Pais | Argentina |
+| Tel | 221-579-2005 |
+| Gmail | rubenjacznik@gmail.com | 
