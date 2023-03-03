@@ -6,5 +6,10 @@
 especializado en trabajo administrativo, resolución de problemas, planificación y
 asistencia de calidad.
 
+#### Mi experiencia laboral:
 
-
+    1 Administrador, RNR Traslados, La Plata.
+    2 Administrador, Nodos imp, La Plata
+    3 Administrativo, Juarez Juan Marcelo, Buenos Aires
+    
+    
