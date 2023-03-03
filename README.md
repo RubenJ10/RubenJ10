@@ -2,13 +2,12 @@
 
 ## Soy Ruben Jacznik
 
-| **Comandos** |*manejo de carpetas* |
-| --- | ----------- |
-| mkdir | Crea nueva carpeta |
-| cp -r | Copia una carpeta |
-| rm -r | Elimina carpetas |
-| ls | lista los archivos de carpeta actual |
-| cd | navega entre carpetas | 
+ **Datos personales**
+-Calle 87
+-1900, La Plata
+-Argentina
+-221-573-2105
+-rubenjacznik@gmail.com 
 
  
 ### Perfil profesional 
