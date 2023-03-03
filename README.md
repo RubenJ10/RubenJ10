@@ -4,18 +4,18 @@
 
 
 **Datos personales**
-Calle 77
-1900, La Plata
-Argentina
-221-579-2005
- rubenjacznik@gmail.com 
+-Calle 77
+-1900, La Plata
+-Argentina
+-221-579-2005
+-rubenjacznik@gmail.com 
  
  
 * Perfil profesional 
 
-< Asistente administrativo competente con más de 7 años de experiencia en la oficina,
+< **Asistente administrativo** *competente con más de 7 años de experiencia en la oficina,
 especializado en trabajo administrativo, resolución de problemas, planificación y
-asistencia de calidad.
+asistencia de calidad*.
 
 
 ## Experiencia Laboral 
