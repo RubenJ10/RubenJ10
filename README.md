@@ -2,13 +2,13 @@
 
 ## Soy Ruben Jacznik
 
-| Ruben |**Datos personales** |
+| **Comandos** |*manejo de carpetas* |
 | --- | ----------- |
-| Direccion |  Calle 77 |
-| CP | 1900, La Plata 
-| Pais | Argentina |
-| Tel | 221-579-2005 |
-| Gmail | rubenjacznik@gmail.com | 
+| mkdir | Crea nueva carpeta |
+| cp -r | Copia una carpeta |
+| rm -r | Elimina carpetas |
+| ls | lista los archivos de carpeta actual |
+| cd | navega entre carpetas | 
 
  
 ### Perfil profesional 
@@ -26,10 +26,4 @@ asistencia de calidad*.
         3 Administrativo, Juarez Juan Marcelo, Buenos Aires
          (Abril 2021 - actualidad)
 
-| Ruben |**Datos personales** |
-| --- | ----------- |
-| Direccion |  Calle 77 |
-| CP | 1900, La Plata 
-| Pais | Argentina |
-| Tel | 221-579-2005 |
-| Gmail | rubenjacznik@gmail.com | 
+
