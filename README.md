@@ -4,11 +4,11 @@
 
  **Datos personales**
  
--Calle 87
--1900, La Plata
--Argentina
--221-573-2105
--rubenjacznik@gmail.com 
+- Calle 87
+- 1900, La Plata
+- Argentina
+- 221-573-2105
+- rubenjacznik@gmail.com 
 
  
 ### Perfil profesional 
